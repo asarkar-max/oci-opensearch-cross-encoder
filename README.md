@@ -113,7 +113,7 @@ POST /_plugins/_ml/models/[MODEL_ID]/_predict
 {
   "query_text": "Holidays 2026",
   "text_docs": [
-    "U.S. holidays 2026 list from  Insider",
+    "U.S. holidays 2026 list",
     "The festive season starts now...",
     "P.T.O and maternity leave",
     "New updated cloud infra from ",
